@@ -13,4 +13,4 @@ def digits(n):
 print digits(1) #0
 print digits(10) #9
 print digits(100) #189
-print digits(20897987987897920) #6969
+print digits(2020) #6969
